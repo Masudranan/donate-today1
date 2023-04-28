@@ -15,21 +15,23 @@ height: 669px;
 }
 .banner-tital{
     color: aliceblue;
- position: absolute;
-width: 666px;
-height: 158px;
-left: 492px;
-top: 174px
-
+    position: absolute;
+    width: 466px;
+    height: 158px;
+    left: 492px;
+    top: 174px;
+    text-align: center;
 
 }
 .banner-subtital{
     position: absolute;
-width: 691px;
+width: 591px;
 height: 56px;
 left: 430px;
 top: 252px;
 color: aliceblue;
+text-align: center;
+margin-top: 22px;
 
 }
 .btn-primary{
