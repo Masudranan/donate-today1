@@ -11,9 +11,7 @@ height: 669px;
     background-image: url('../images/donation1.jpg');
    background-position: center;
     background-repeat: no-repeat;
-    border-image-width: 1440px;
-    
-   
+        
 }
 .banner-tital{
     color: aliceblue;
@@ -91,8 +89,8 @@ display: flex;
 
 .nav-taital{
     display: flex;
-    margin-top: 22px;
-    margin-left: 22px;
+    /* margin-top: 22px;
+    margin-left: 22px; */
 }
 .nav-con{
     display: flex;
@@ -110,12 +108,7 @@ display: flex;
 }
 .another{
     margin-top: 200px;
-    width: 765px;
-height: 0px;
-left: 638px;
-top: 1199.5px;
-
-border: 1px solid #DADADA; 
+    text-decoration: underline;
 
 }
 .extr{
@@ -124,6 +117,7 @@ border: 1px solid #DADADA;
     border-radius: 5px;
     border: 3px solid #DADADA; 
     margin-left: 230px; 
+    
     
     
 }
