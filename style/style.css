@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    /* text-align: center; */
+}
+.banner{
+    display: flex;
+width: 1440px;
+height: 669px;
+    background-color: rgba(0, 0, 0, 0.298);
+    background-image: url('../images/donation1.jpg');
+   background-position: center;
+    background-repeat: no-repeat;
+    border-image-width: 1440px;
+    
+   
+}
+.banner-tital{
+    color: aliceblue;
+ position: absolute;
+width: 766px;
+height: 158px;
+left: 492px;
+top: 174px
+
+}
+.banner-subtital{
+    position: absolute;
+width: 691px;
+height: 56px;
+left: 430px;
+top: 252px;
+color: aliceblue;
+
+}
+.btn-primary{
+    
+    width: 280px;
+    height: 55px;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+   font-weight: 800;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #dc6815;
+    padding: 10px 25px;
+    border: none;
+    text-transform:uppercase;
+    margin-top: 22px;
+    top: 300px;
+
+}
+main{
+    max-width: 1440px;
+    min-height: 600px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.section{
+    margin-top: 35px;
+    text-align: center;
+}
+.section-tital{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+color: black;
+
+    
+}
+.section-discription{
+    margin: 20px;
+    font-weight: 900;
+    max-width: 600px;
+    text-align: center;
+    margin-left: 430px;
+   
+}
+.nav{
+   
+font-weight: 30px;
+
+}
+
+.nav-taital{
+    display: flex;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+.nav-con{
+    display: flex;
+    margin-top: 52px;
+    font-size: 30px;
+    position: absolute;
+    justify-content: center;
+    width: 135px;
+    height: 123px;
+     left: 968px;
+    color: #707070;
+    border-radius: 5px;
+    background-color: #FFEEEE;
+    gap: 22px;
+}
+.another{
+    margin-top: 200px;
+    width: 765px;
+height: 0px;
+left: 638px;
+top: 1199.5px;
+
+border: 1px solid #DADADA; 
+
+}
+.extr{
+    margin:175px;
+    border-bottom: black;
+    border-radius: 5px;
+    border: 3px solid #DADADA; 
+    margin-left: 230px; 
+    
+    
+}
+.donate-tital{
+    font-size: 55px;
+}
+.donate{
+    margin-top: 62px;
+    display: flex;
+    display: block;
+    padding: 20px;
+    border-radius: 5px;
+}
+.donate-discription{
+    margin: 15px;
+    max-width: 426px;
+    text-align: center;
+    margin-left: 490px;
+}
+.donate-plan{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.about-info{
+padding: 50px;
+background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+box-shadow: #707070;
+max-width: 222px;
+}
+.info-tital{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+/* donate section */
+.first-donate{
+    margin-top: 92px;
+    margin-left: 200px;
+    width: 393px;
+    height: 374px;
+}
+.first-donatetitle{
+    font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+
+color: #121212;
+
+}
+
+.first-discription{
+    margin-top: 25px;
+}
+.images{
+    position: absolute;
+    width: 456px;
+    height: 477px;
+    left: 732px;
+    top: 1778px;
+    
+}
+/* second-donate */
+.second-donate{
+    margin-top: 292px;
+    margin-left: 800px;
+    width: 393px;
+    height: 374px;
+    
+}
+.images1{
+    position: absolute;
+width: 456px;
+height: 407px;
+left: 156px;
+top: 2355px;
+}
+/* bottom section */
+.bottom{
+    text-align: center;
+}
+.bottom-taitle{
+    position: absolute;
+    max-width: 320px;
+    max-height: 52px;
+    margin-left: 590px;
+    margin-top: 80px;
+    text-align: center;
+    color: #121212;
+}
+.bottom-subtital{
+    position: absolute;
+    max-width: 620px;
+    max-height: 112px;
+    margin-left: 390px;
+    margin-top: 130px;
+    text-align: center;
+    color: #121212;
+}
+/* submit section */
+.submit{
+    position: absolute;
+    width: 809px;
+    height: 100px;
+    left: 316px;
+    top: 3100px;
+    margin-top: 15px;
+    background-color: rgba(255, 160, 122, 0.387);
+    display: flex;
+}
+.submit-tital{
+    
+    background-color: #dc6815;
+   width: 180px;
+   height: 35px;
+   margin-left: 200px;
+    top:3242px;
+    margin-top: 40px;
+    
+}
+.submit-btn{
+    width: 200px;
+    height: 35px;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    cursor-right: pointer;
+   font-weight: 800;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #dc6815;
+    padding: 10px 25px;
+    border: none;
+    text-transform:uppercase;
+    margin-top: 40px;
+}
+/* footer section */
+.footer{
+    background-color: #121212;
+   position: absolute;
+left: 0%;
+right: 0%;
+top: 3300px;
+bottom: 0%;
+padding: 112px;
+
+}
+.bottom-section{
+    text-align: center;
+    color: red;
+    letter-spacing: 0.5px;
+    font-weight: 900px;
+    font-size: 30px;
+    margin-top: 10px;
+   
+}
+.bottom-discription{
+    color: #FFEEEE;
+    font-size: 15px;
+
+}
