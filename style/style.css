@@ -11,15 +11,16 @@ height: 669px;
     background-image: url('../images/donation1.jpg');
    background-position: center;
     background-repeat: no-repeat;
-        
+        background-size: 100% 720px;
 }
 .banner-tital{
     color: aliceblue;
  position: absolute;
-width: 766px;
+width: 666px;
 height: 158px;
 left: 492px;
 top: 174px
+
 
 }
 .banner-subtital{
