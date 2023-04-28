@@ -49,7 +49,7 @@ color: aliceblue;
     border: none;
     text-transform:uppercase;
     margin-top: 22px;
-    top: 300px;
+    
 
 }
 main{
@@ -85,6 +85,7 @@ color: black;
 .nav{
    
 font-weight: 30px;
+display: flex;
 
 }
 
@@ -163,7 +164,7 @@ max-width: 222px;
     margin-top: 92px;
     margin-left: 200px;
     width: 393px;
-    height: 374px;
+    height: 194px;
 }
 .first-donatetitle{
     font-weight: 700;
@@ -225,7 +226,7 @@ top: 2355px;
 /* submit section */
 .submit{
     position: absolute;
-    width: 809px;
+    width: 899px;
     height: 100px;
     left: 316px;
     top: 3100px;
@@ -234,7 +235,7 @@ top: 2355px;
     display: flex;
 }
 .submit-tital{
-    
+    color: #FFEEEE;
     background-color: #dc6815;
    width: 180px;
    height: 35px;
@@ -277,6 +278,7 @@ padding: 112px;
     font-weight: 900px;
     font-size: 30px;
     margin-top: 10px;
+    text-transform: uppercase;
    
 }
 .bottom-discription{
